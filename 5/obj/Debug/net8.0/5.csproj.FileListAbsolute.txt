@@ -1,0 +1,15 @@
+C:\dev\interviews\target-estagio-set\5\bin\Debug\net8.0\5.exe
+C:\dev\interviews\target-estagio-set\5\bin\Debug\net8.0\5.deps.json
+C:\dev\interviews\target-estagio-set\5\bin\Debug\net8.0\5.runtimeconfig.json
+C:\dev\interviews\target-estagio-set\5\bin\Debug\net8.0\5.dll
+C:\dev\interviews\target-estagio-set\5\bin\Debug\net8.0\5.pdb
+C:\dev\interviews\target-estagio-set\5\obj\Debug\net8.0\5.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\interviews\target-estagio-set\5\obj\Debug\net8.0\5.AssemblyInfoInputs.cache
+C:\dev\interviews\target-estagio-set\5\obj\Debug\net8.0\5.AssemblyInfo.cs
+C:\dev\interviews\target-estagio-set\5\obj\Debug\net8.0\5.csproj.CoreCompileInputs.cache
+C:\dev\interviews\target-estagio-set\5\obj\Debug\net8.0\5.sourcelink.json
+C:\dev\interviews\target-estagio-set\5\obj\Debug\net8.0\5.dll
+C:\dev\interviews\target-estagio-set\5\obj\Debug\net8.0\refint\5.dll
+C:\dev\interviews\target-estagio-set\5\obj\Debug\net8.0\5.pdb
+C:\dev\interviews\target-estagio-set\5\obj\Debug\net8.0\5.genruntimeconfig.cache
+C:\dev\interviews\target-estagio-set\5\obj\Debug\net8.0\ref\5.dll
